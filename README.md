@@ -1,5 +1,4 @@
 # beer-backend-rest-api
-=========================
 
 Design, implement and automatically test a backend REST API for a craft beer enthousiasts app.
 
